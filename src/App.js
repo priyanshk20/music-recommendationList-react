@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import "./styles.css";
 
-
 const songDB = {
   pop: [
     { name: "One Dance", rating: "4/5" },
@@ -40,7 +39,7 @@ export default function App() {
       <h1>WhatMusic</h1>
       <p style={{ fontSize: "smaller" }}>
         {" "}
-        Checkout my favorite books. Select a genre to get started{" "}
+        Wanna Know my Favourite Music from Different Genres.....Check Out:{" "}
       </p>
 
       <div>
@@ -85,5 +84,3 @@ export default function App() {
     </div>
   );
 }
-
-
