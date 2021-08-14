@@ -4,7 +4,8 @@ import "./styles.css";
 const songDB = {
   pop: [
     { name: "One Dance", rating: "4/5" },
-    { name: "There For You", rating: "3.5/5" }
+    { name: "There For You", rating: "3.5/5" },
+    { name: "Lonely", rating: "3/5" }
   ],
 
   rap: [
@@ -15,6 +16,10 @@ const songDB = {
     {
       name: "3:59",
       rating: "4.5/5"
+    },
+     {
+      name: "Rap God",
+      rating: "5/5"
     }
   ],
   indie: [
@@ -25,6 +30,10 @@ const songDB = {
     {
       name: "Sage",
       rating: "5/5"
+    },
+    {
+      name: "Sathi",
+      rating: "4/5"
     }
   ]
 };
