@@ -1,2 +1,4 @@
 # music-recommendationList-react
-Created with CodeSandbox
+
+
+Music Recommendation app made using react.
